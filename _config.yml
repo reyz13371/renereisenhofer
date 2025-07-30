@@ -2,7 +2,8 @@
 title               : René Reisenhofer
 description         : >-
   A portfolio website showcasing my projects, skills, and experiences.
-baseurl             : "/renereisenhofer"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+url: "https://reyz13371.github.io"
+baseurl: "/renereisenhofer"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : reyz13371/reyz13371.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
