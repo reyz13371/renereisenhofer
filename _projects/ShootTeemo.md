@@ -28,8 +28,7 @@
 
 ### 📌 Project Status
 
-My first Unity project
-Playable prototype – not publicly released
+My first Unity project. Playable prototype – not publicly released
 
 ---
 
