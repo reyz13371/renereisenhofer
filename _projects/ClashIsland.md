@@ -28,8 +28,7 @@
 
 ### 📌 Project Status
 
-My first multiplayer project in Unity
-Functional prototype – not publicly released
+My first multiplayer project in Unity. Functional prototype – not publicly released
 
 ---
 
