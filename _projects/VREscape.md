@@ -27,8 +27,7 @@
 
 ### 📌 Project Status
 
-My first VR project in Unity
-Prototype – not publicly released
+My first VR project in Unity. Prototype – not publicly released
 
 ---
 
