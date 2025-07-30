@@ -83,7 +83,7 @@ buymeacoffee:
 ### Defaults for collections ###
 defaults:
   - scope:
-      path: ""
+      path: "./pages/projects.html"
       type: "projects"
     values:
       layout: "page"
