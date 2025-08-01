@@ -1,7 +1,7 @@
 ---
  name: Shoot Teemo
  tools: [Unity, C#, Blender]
- image: ../assets/images/ShootTeemo.png
+ image: /assets/images/ShootTeemo.png
  description: **Shoot Teemo** is a first-person shooting game inspired by the League of Legends character Teemo. The game features target shooting mechanics, enemy projectiles using NavMesh to target the player and difficulty scaling with time.
 ---
 
