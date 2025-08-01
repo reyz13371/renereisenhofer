@@ -33,6 +33,7 @@ My first Unity project. Playable prototype – not publicly released
 
 ---
 
-### 🖼 Screenshot
+### 🖼 Screenshots
 
-![Shoot Teemo Screenshot](/assets/images/shoot_teemo.png)
+![Shoot Teemo Screenshot](/assets/images/ShootTeemo.png)
+![Custom Shroom Model (Blender)](/assets/images/ShroomBlender.png)
