@@ -38,7 +38,8 @@ My first Unity project. Playable prototype – not publicly released
 #### In-game
 ![Shoot Teemo Screenshot](/renereisenhofer/assets/images/ShootTeemo.png)
 #### Custom Model (Blender)
-![Custom Shroom Model (Blender)](/renereisehofer/assets/images/ShroomBlender.png)
+![Custom Shroom Model (Blender)](/renereisenhofer/assets/images/ShroomBlender.png)
+
 
 
 
