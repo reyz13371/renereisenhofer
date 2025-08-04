@@ -1,8 +1,10 @@
 ---
  name: VR Escape
- image: image url or path here.
- description: **VR Escape** is an immersive virtual reality escape room experience developed in Unity. Players interact with objects in different rooms (classrooms)solving puzzles using hand tracking and common sense.
+ image: renereisenhofer/assets/images/VREscape.png
+ description: VR Escape is an immersive virtual reality escape room experience developed in Unity. Players interact with objects in different rooms (classrooms)solving puzzles using hand tracking and common sense.
 ---
+
+![VR Escape Screenshot](renereisenhofer/assets/images/vr_escape.png)
 
 ### 🛠 Tech Stack
 
@@ -33,4 +35,5 @@ My first VR project in Unity. Prototype – not publicly released
 
 ### 🖼 Screenshot
 
-![VR Escape Screenshot](/assets/images/vr_escape.png)
+![VR Escape Screenshot](renereisenhofer/assets/images/vr_escape.png)
+
