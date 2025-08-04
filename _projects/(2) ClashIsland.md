@@ -4,7 +4,7 @@
  description: Clash Island is a small multiplayer battle royale game. The twist is that not only players are on the island but NPCs as well. The last player standing wins it all.
 ---
 
-![Clash Island]renereisenhofer/assets/images/ClashIslandMainScreen.png
+![Clash Island](renereisenhofer/assets/images/ClashIslandMainScreen.png)
 
 ### 🛠 Tech Stack
 
@@ -36,5 +36,6 @@ My first multiplayer project in Unity. Functional prototype – not publicly rel
 
 ### 🖼 Screenshot
 
-![Clash Island Screenshot](/assets/images/clash_island.png)
+![Clash Island Screenshot](renereisenhofer/assets/images/clash_island.png)
+
 
