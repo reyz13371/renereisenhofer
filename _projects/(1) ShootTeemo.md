@@ -1,7 +1,7 @@
 ---
  name: Shoot Teemo
  tools: [Unity, C#, Blender]
- image: /renereisenhofer/assets/images/ShootTeemo.png
+ image: /renereisenhofer/assets/images/ShootTeemoTitle.png
  description: Shoot Teemo is a first-person shooting game inspired by the League of Legends character Teemo. The goal is to get as many points as possible before dying.
 ---
 
@@ -35,9 +35,11 @@ My first Unity project. Playable prototype – not publicly released
 ---
 
 ### 🖼 Screenshots
+#### In-game
+![Shoot Teemo Screenshot](/renereisenhofer/assets/images/ShootTeemo.png)
+#### Custom Model (Blender)
+![Custom Shroom Model (Blender)](/renereisehofer/assets/images/ShroomBlender.png)
 
-![Shoot Teemo Screenshot](/assets/images/ShootTeemo.png)
-![Custom Shroom Model (Blender)](/assets/images/ShroomBlender.png)
 
 
 
