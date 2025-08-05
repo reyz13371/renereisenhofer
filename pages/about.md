@@ -9,6 +9,9 @@ weight: 3
 
 Hi I'm **{{ site.author.name }}** :wave:,<br>
 an aspiring Software Engineer from Austria with a passion for the gaming and esports industry. In March 2026, I will start my bachelor’s degree in Games Programming at SAE Institute in Vienna.
+
+This portfolio primarily showcases my game development projects, as this is my current main focus. However, I’m happy to share other projects upon request to demonstrate a broader range of skills and experiences.
+
 I am currently looking for a job where I can prove myself and - most importantly - continue developing my coding and software development skills
 
 <div class="row">
