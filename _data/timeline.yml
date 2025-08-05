@@ -1,17 +1,4 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, HTL Pinkafeld, Austria
+  from: 2020
+  to: 2025
+  description: I completed my secondary technical education at HTL Pinkafeld from 2014 to 2018. The curriculum covered a broad range of subjects, including network systems and cybersecurity, computer architecture and operating systems, software engineering and programming, web and mobile development, game development, data science and AI, business management (accounting and business organization), system planning and project management, as well as databases and information systems. For my final project, I worked in a team to create a software solution, which allowed me to apply my skills in a real-world setting and strengthen my experience in collaborative software engineering.
