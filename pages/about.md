@@ -7,8 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi I'm **{{ site.author.name }}** :wave:,<br>
+an aspiring Software Engineer from Austria with a passion for the gaming and esports industry. In March 2026, I will start my bachelor’s degree in Games Programming at SAE Institute in Vienna.
+I am currently looking for a job where I can prove myself and - most importantly - continue developing my coding and software development skills
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
