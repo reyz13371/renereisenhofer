@@ -1,7 +1,43 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Angular
+  percentage: 35
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: NestJS
+  percentage: 45
+  color: primary
+
+- name: React Native
+  percentage: 30
   color: success
+
+- name: MongoDB
+  percentage: 45
+  color: warning
+
+- name: Oracle
+  percentage: 45
+  color: secondary
+
+- name: Cisco (Networking & Configuration)
+  percentage: 45
+  color: danger
+
+- name: SCRUM
+  percentage: 45
+  color: info
+
+- name: Blender
+  percentage: 10
+  color: warning
+
+- name: Aseprite
+  percentage: 20
+  color: success
+
+- name: GIMP
+  percentage: 20
+  color: secondary
+
+- name: Office 365
+  percentage: 80
+  color: primary
