@@ -1,11 +1,28 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- name: C/C++
+  percentage: 50
+  color: primary
 
-- name: Go
-  percentage: 80
-  color:
+- name: C#
+  percentage: 60
+  color: info
+
+- name: Java
+  percentage: 65
+  color: warning
 
 - name: Python
+  percentage: 40
+  color: secondary
+  note: "Mainly used for machine learning and data analysis"
+
+- name: JavaScript / TypeScript
   percentage: 70
+  color: success
+
+- name: HTML5/CSS3
+  percentage: 65
+  color: danger
+
+- name: PL/SQL
+  percentage: 40
   color: secondary
