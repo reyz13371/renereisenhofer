@@ -26,3 +26,15 @@
 - name: PL/SQL
   percentage: 35
   color: secondary
+
+- name: Angular
+  percentage: 35
+  color: info
+
+- name: NestJS
+  percentage: 45
+  color: primary
+
+- name: React Native
+  percentage: 30
+  color: success
