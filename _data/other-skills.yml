@@ -1,25 +1,29 @@
+- name: Git
+  percentage: 60
+  color: primary
+  
 - name: MongoDB
-  percentage: 45
+  percentage: 65
   color: warning
 
 - name: Oracle
-  percentage: 45
+  percentage: 50
   color: secondary
 
 - name: Cisco (Networking & Configuration)
-  percentage: 45
+  percentage: 65
   color: danger
 
 - name: SCRUM
-  percentage: 45
+  percentage: 60
   color: info
 
 - name: Blender
-  percentage: 10
+  percentage: 15
   color: warning
 
 - name: Aseprite
-  percentage: 20
+  percentage: 25
   color: success
 
 - name: GIMP
