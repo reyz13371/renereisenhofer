@@ -27,13 +27,17 @@
   percentage: 35
   color: secondary
 
-- name: Angular
-  percentage: 35
-  color: info
-
+- name: Express
+  percentage: 60
+  color: warning
+  
 - name: NestJS
   percentage: 45
   color: primary
+
+- name: Angular
+  percentage: 35
+  color: info
 
 - name: React Native
   percentage: 30
