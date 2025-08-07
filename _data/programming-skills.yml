@@ -1,44 +1,43 @@
 - name: C/C++
-  percentage: 45
+  percentage: 65
   color: primary
 
 - name: C#
-  percentage: 55
+  percentage: 80
   color: info
 
 - name: Java
-  percentage: 60
+  percentage: 80
   color: warning
 
 - name: Python
-  percentage: 40
+  percentage: 45
   color: secondary
-  note: "Mainly used for machine learning and data analysis"
 
 - name: JavaScript / TypeScript
-  percentage: 65
+  percentage: 75
   color: success
 
 - name: HTML5/CSS3
-  percentage: 50
+  percentage: 70
   color: danger
 
 - name: PL/SQL
-  percentage: 35
+  percentage: 55
   color: secondary
 
 - name: Express
-  percentage: 60
+  percentage: 75
   color: warning
   
 - name: NestJS
-  percentage: 45
+  percentage: 70
   color: primary
 
 - name: Angular
-  percentage: 35
+  percentage: 50
   color: info
 
 - name: React Native
-  percentage: 30
+  percentage: 40
   color: success
