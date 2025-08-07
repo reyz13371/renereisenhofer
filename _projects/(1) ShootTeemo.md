@@ -5,6 +5,8 @@
  description: Shoot Teemo is a first-person shooting game inspired by the League of Legends character Teemo. The goal is to get as many points as possible before dying.
 ---
 
+### Shoot Teemo
+
 ![Shoot Teemo](/renereisenhofer/assets/images/ShootTeemoTitle.png)
 
 ### 🛠 Tech Stack
@@ -41,6 +43,7 @@ My first Unity project. Playable prototype – not publicly released
 ![Shoot Teemo Screenshot](/renereisenhofer/assets/images/ShootTeemo.png)
 #### Custom Model (Blender)
 ![Custom Shroom Model (Blender)](/renereisenhofer/assets/images/ShroomBlender.png)
+
 
 
 
