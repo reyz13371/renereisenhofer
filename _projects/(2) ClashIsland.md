@@ -41,6 +41,11 @@ My first multiplayer project in Unity. Functional prototype – not publicly rel
 
 ![Clash Island Screenshot](/renereisenhofer/assets/images/ClashIsland.png)
 
+---
+
+### ℹ️ Additional Information
+
+This project was created in collaboration with another developer.
 
 
 
