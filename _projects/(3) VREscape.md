@@ -40,6 +40,12 @@ My first VR project in Unity. Prototype – not publicly released
 
 ![VR Escape Screenshot](/renereisenhofer/assets/images/VREscape.png)
 
+---
+
+### ℹ️ Additional Information
+
+This project was created in collaboration with another developer.
+
 
 
 
