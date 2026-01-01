@@ -37,3 +37,7 @@
 - name: Office 365
   percentage: 80
   color: primary
+
+- name: OpenAI API
+  percentage: 60
+  color: info
