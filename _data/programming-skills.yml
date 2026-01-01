@@ -11,7 +11,7 @@
   color: warning
 
 - name: Python
-  percentage: 45
+  percentage: 55
   color: secondary
 
 - name: JavaScript / TypeScript
