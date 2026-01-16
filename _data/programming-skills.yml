@@ -41,3 +41,11 @@
 - name: React Native
   percentage: 40
   color: success
+
+- name: .NET
+  percentage: 70
+  color: danger
+
+- name: WPF
+  percentage: 70
+  color: secondary
