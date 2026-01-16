@@ -1,5 +1,5 @@
 ---
- name: [Diploma Project] CSM - Construction Site Management
+ name: (Diploma Project) CSM - Construction Site Management
  tools: [TypeScript, NestJS, SocketIO, MongoDB, MongoDB Realm, React, Electron, Flutter, Jira]
  image: /renereisenhofer/assets/images/CSMMainMenu.png
  description: CSM is a cross-platform construction site management system developed as a diploma project to digitize lean management workflows on construction sites.
