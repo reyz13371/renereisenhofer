@@ -1,7 +1,7 @@
 ---
  name: VocabApp
  tools: [TypeScript, React Native, SQLite, Expo]
- image: /renereisenhofer/assets/images/VocabAppMainMenu.png
+ image: /renereisenhofer/assets/images/VocabAppMainMenu.jpg
  description: Since I've always been interested in learning Spanish, I created a mobile app that lets me study anytime and anywhere from my phone.
 ---
 
