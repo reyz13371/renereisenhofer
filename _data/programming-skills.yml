@@ -49,3 +49,7 @@
 - name: WPF
   percentage: 70
   color: secondary
+  
+- name: OpenAI API
+  percentage: 60
+  color: info
