@@ -7,7 +7,7 @@ description: An internal desktop application developed to automate document-base
 
 # GetecApp – Internal Automation Tool
 
-![Main Interface](/renereisenhofer/assets/images/main.png)
+![Main Interface](/renereisenhofer/assets/images/GetecAppMain.png)
 
 ### 🛠 Tech Stack
 
@@ -33,7 +33,7 @@ The application combines classical software engineering (data processing, valida
 
 #### 1️⃣ AGB Analysis (AI-Supported Legal Review)
 
-![AGB Analyse](/renereisenhofer/assets/images/agb_analyse.png)
+![AGB Analyse](/renereisenhofer/assets/images/GetecAppAgb_analyse.png)
 
 - Upload of AGB (terms & conditions) documents
 - Automated legal-style analysis
@@ -50,7 +50,7 @@ The OpenAI API is used with deterministic settings (temperature = 0.0) to ensure
 
 #### 2️⃣ Price Sheet Automation (Preisspiegel)
 
-![Preisspiegel](/renereisenhofer/assets/images/preisspiegel.png)
+![Preisspiegel](/renereisenhofer/assets/images/GetecAppPreisspiegel.png)
 
 - Upload of Excel sheets and offer PDFs
 - Automated extraction of offered prices
@@ -62,7 +62,7 @@ The OpenAI API is used with deterministic settings (temperature = 0.0) to ensure
 
 #### 3️⃣ Minute Rate Processing
 
-![Minutensätze](/renereisenhofer/assets/images/minutensaetze.png)
+![Minutensätze](/renereisenhofer/assets/images/GetecAppMinutensaetze.png)
 
 - Excel import of position lists
 - Matching with reference datasets
@@ -72,6 +72,8 @@ The OpenAI API is used with deterministic settings (temperature = 0.0) to ensure
 ---
 
 ### 🔧 Technical Implementation Highlights
+
+![Minutensätze](/renereisenhofer/assets/images/GetecAppOpenAIservice.png)
 
 - Modular service-based architecture
 - Dedicated OpenAI service wrapper for:
