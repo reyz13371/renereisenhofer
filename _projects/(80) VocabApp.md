@@ -38,21 +38,21 @@ Fully functional mobile app – actively used.
 
 ### 🖼 Screenshots
 #### Vocabulary View
-![Vocabulary View](/renereisenhofer/assets/images/VocabAppFolderMenu.png)
+<img src="/renereisenhofer/assets/images/VocabAppFolderMenu.png" width="300" />
 
 #### Import / Export
-![CSV Import / Export](/renereisenhofer/assets/images/VocabAppImportExportCSV.png)
+<img src="/renereisenhofer/assets/images/VocabAppImportExportCSV.png" width="300" />
 
 #### Practice Menu
-![Practice Menu](/renereisenhofer/assets/images/VocabAppPracticeMenu.png)
+<img src="/renereisenhofer/assets/images/VocabAppPracticeMenu.png" width="300" />
 
 #### Flashcards
-![Flashcards](/renereisenhofer/assets/images/VocabAppFlashcards.png)
+<img src="/renereisenhofer/assets/images/VocabAppFlashcards.png" width="300" />
 
 #### Folder & Item Management
-![Main Menu](/renereisenhofer/assets/images/VocabAppMainMenu.png)
+<img src="/renereisenhofer/assets/images/VocabAppMainMenu.png" width="300" />
 
-![Item Menu](/renereisenhofer/assets/images/VocabAppItemMenu.png)
+<img src="/renereisenhofer/assets/images/VocabAppItemMenu.png" width="300" />
 
 
 
