@@ -7,11 +7,10 @@
 
 # VocabApp
 
-![VocabApp Main Menu](/renereisenhofer/assets/images/VocabAppMainMenu.png)
+<img src="/renereisenhofer/assets/images/VocabAppMainMenu.png" width="300"/>
 
 ### 🛠 Tech Stack
 
-- VS Code
 - TypeScript
 - React Native
 - SQLite
