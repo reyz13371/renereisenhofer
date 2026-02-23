@@ -1,7 +1,7 @@
 ---
 name: GetecApp – Internal Process Automation with AI
 tools: [C#, .NET, WPF, OpenAI API, PDF Processing, Excel Integration]
-image: /renereisenhofer/assets/images/main.png
+image: /renereisenhofer/assets/images/GetecAppMain.png
 description: An internal desktop application developed to automate document-based business processes using software engineering and AI integration.
 ---
 
