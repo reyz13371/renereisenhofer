@@ -7,7 +7,7 @@ description: A personal AI-powered career workspace that helps analyze job posti
 
 # AI Career Workspace
 
-<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_search.png" style="height:130%;" />
+<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_search.png" style="width:130%;" />
 
 ### 🛠 Tech Stack
 
@@ -38,7 +38,7 @@ The goal was to build a **single workspace for managing the entire application p
 
 ### 🔎 AI Job Link Analysis
 
-<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_analysis.png" style="height:130%;" />
+<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_analysis.png" style="width:130%;" />
 
 Users can paste a job posting URL and automatically extract structured information from the listing.
 
@@ -75,7 +75,7 @@ This transforms long job descriptions into concise, actionable insights.
 
 ### 🏢 AI Company Discovery
 
-<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_search.png" style="height:130%;" />
+<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_search.png" style="width:130%;" />
 
 The system can search for companies based on:
 
@@ -89,7 +89,7 @@ Results show potential employers and link directly to their career pages.
 
 ### 📋 Application Tracking System
 
-<img src="/renereisenhofer/assets/images/CareerWorkspace_Applications.png" style="height:130%;" />
+<img src="/renereisenhofer/assets/images/CareerWorkspace_Applications.png" style="width:130%;" />
 
 A built-in application manager allows users to:
 
