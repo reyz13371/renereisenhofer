@@ -7,7 +7,7 @@ description: A personal AI-powered career workspace that helps analyze job posti
 
 # AI Career Workspace
 
-![AI Company Search](/renereisenhofer/assets/images/CareerWorkspace_AI_search.png)
+<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_search.png" style="width:130%;" />
 
 ### 🛠 Tech Stack
 
@@ -38,7 +38,7 @@ The goal was to build a **single workspace for managing the entire application p
 
 ### 🔎 AI Job Link Analysis
 
-![Job Link Analysis](/renereisenhofer/assets/images/CareerWorkspace_AI_analysis.png)
+<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_analysis.png" style="width:130%;" />
 
 Users can paste a job posting URL and automatically extract structured information from the listing.
 
@@ -57,8 +57,8 @@ It then calculates an **AI-based job fit score** and generates a structured eval
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
 
-<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_analysis_details1.png" width="48%" />
-<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_analysis_details2.png" width="48%" />
+<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_analysis_details1.png" style="width:63%;" />
+<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_analysis_details2.png" style="width:63%;" />
 
 </div>
 
@@ -75,7 +75,7 @@ This transforms long job descriptions into concise, actionable insights.
 
 ### 🏢 AI Company Discovery
 
-![Company Search](/renereisenhofer/assets/images/CareerWorkspace_AI_search.png)
+<img src="/renereisenhofer/assets/images/CareerWorkspace_AI_search.png" style="width:130%;" />
 
 The system can search for companies based on:
 
@@ -89,7 +89,7 @@ Results show potential employers and link directly to their career pages.
 
 ### 📋 Application Tracking System
 
-![Application Management](/renereisenhofer/assets/images/CareerWorkspace_Applications.png)
+<img src="/renereisenhofer/assets/images/CareerWorkspace_Applications.png" style="width:130%;" />
 
 A built-in application manager allows users to:
 
